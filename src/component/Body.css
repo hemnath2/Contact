@@ -1,0 +1,119 @@
+
+
+
+
+.body1{
+    margin-left: 244px;
+    margin-top: 61px;
+}
+
+
+.btn-1{
+    color: #fff;
+    background: #000;
+    font-size: 15.3px;
+    font-weight: 500;
+    height: 47px;
+    border: 1px solid;
+    border-radius: 7px;
+    width: 220px;
+    letter-spacing: 0.2px;
+    padding: 5px 0px 2px 13px;
+}
+
+.icon{
+}
+
+.btn-2{
+    color: #fff;
+    background: #000;
+    font-size: 15.3px;
+    font-weight: 500;
+    height: 47px;
+    border: 1px solid;
+    border-radius: 7px;
+    width: 220px;
+    letter-spacing: 0.2px;
+    padding: 5px 0px 2px 13px;
+    margin-left: 31px;
+}
+
+.btn-3{
+    background-color: #fff;
+    border: 1px solid;
+    width: 470px;
+    height: 41px;
+    margin-top: 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.1px;
+}
+
+.body1 input{
+    width: 433px;
+    height: 37px;
+    margin-top: 37px;
+    margin-left: 15px;
+    border: 1px solid #5a5959;
+}
+
+.body1 p{
+    position: absolute;
+    font-size: 14px;
+    margin: 26px 45px;
+    background: #fff;
+    font-weight: 600;
+    width: 47px;
+}
+
+#i2 {
+    margin-top: 30px;
+}
+
+#p2{
+    margin-top: 20px;
+    width: 49px;
+}
+
+.text-big{
+    margin-top: -10px;
+}
+
+.text-big p{
+    margin-left: 45px;
+    width: 39px;
+    margin-top: 28px;
+}
+
+.text-big input{
+    height: 116px;
+}
+
+.sub{
+    margin-top: 17px;
+    margin-left: 234px;
+    color: #fff;
+    background: #000;
+    font-size: 15.3px;
+    font-weight: 600;
+    height: 47px;
+    border: 1px solid;
+    border-radius: 7px;
+    width: 222px;
+    letter-spacing: 0.2px;
+    padding: 6px 0px 2px 7px;
+    margin-bottom: 49px;
+    text-transform: uppercase;
+}
+
+.two{
+    margin: -588px 554px;
+    position: relative;
+}
+
+@media only screen and (max-width: 1000px) {
+    body{
+        background-color : blue;
+    }
+}

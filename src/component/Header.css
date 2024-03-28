@@ -1,0 +1,26 @@
+.logo img{
+    height: 72px;
+    position: relative;
+    margin-left: 138px;
+    margin-top: 3px;
+    border-radius: 62px;
+    border: 1px solid #e8dede;
+}
+
+
+.middle{
+    margin-left: 235px;
+    margin-top: 60px;
+}
+
+.middle h1{
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.middle p{
+    color: #5A5959;
+    margin-top: -26px;
+    font-weight: 600;
+
+}
